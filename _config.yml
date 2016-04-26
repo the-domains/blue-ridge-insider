@@ -1,0 +1,28 @@
+name: Blue Ridge Insider
+favicon: null
+layout_spectrum: 0.1909114490263164
+typography_spectrum: 0.12738609197549522
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7206249628216028
+  lightness: 0.6616951851174235
+  saturation: 0.3270277171395719
+  rhythmicContrast: 0.4674399883951992
+purpose: []
